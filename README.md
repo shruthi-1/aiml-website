@@ -13,7 +13,7 @@ A **modern, interactive** website for the **Artificial Intelligence & Machine Le
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend:** [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/)
 - **Animations:** [Framer Motion](https://www.framer.com/motion/), [Lenis.js](https://github.com/studio-freight/lenis)
 - **3D Graphics :** [Three.js](https://threejs.org/)
@@ -22,7 +22,7 @@ A **modern, interactive** website for the **Artificial Intelligence & Machine Le
 
 ##  Getting Started
 
-###Clone the Repository
+### Clone the Repository
 ```sh
 git clone https://github.com/your-username/aiml-website.git
 cd aiml-website
