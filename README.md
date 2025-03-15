@@ -16,8 +16,7 @@ A **modern, interactive** website for the **Artificial Intelligence & Machine Le
 ## 🛠 Tech Stack
 - **Frontend:** [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/)
 - **Animations:** [Framer Motion](https://www.framer.com/motion/), [Lenis.js](https://github.com/studio-freight/lenis)
-- **3D Graphics (Optional):** [Three.js](https://threejs.org/)
-- **Hosting:** [Vercel](https://vercel.com/)
+- **3D Graphics :** [Three.js](https://threejs.org/)
 
 ---
 
